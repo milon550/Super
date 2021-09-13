@@ -590,8 +590,8 @@ http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 http://ux38.gcdn.co/UKS81/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1048556098582708224/qPWHnIYD_400x400.jpg" group-title="Sports",Geo Super
 http://dxla2.gcdn.co/WC5230/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD SK
-http://ux38.gcdn.co/UKS48/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD 
+http://indo51.gcdn.co/BANGLA-BD-GAZITV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD (S)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket
