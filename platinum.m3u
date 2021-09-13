@@ -89,7 +89,7 @@ http://indo51.gcdn.co/BANGLA-IND-AKASH8/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://iptv.itcnbd.com/images/sonyaath.jpg" group-title="Indian Bangla",Sony Aath
-http://indo51.gcdn.co/BANGLA-IND-SONY8/tracks-v1a1/mono.m3u8
+http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla SD
 http://tvflixtn.ddns.net/hls/colorsbangla.m3u8
@@ -118,7 +118,7 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1eCbGa7.png" group-title="Indian Bangla", Ruposhi Bangla
 http://indo51.gcdn.co/BANGLA-IND-Rupashibangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aath
-http://indo51.gcdn.co/BANGLA-IND-SONY8/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aath BDC
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha SD
