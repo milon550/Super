@@ -119,8 +119,8 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 http://indo51.gcdn.co/BANGLA-IND-Rupashibangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aath
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aath BDC
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aath HD
+http://jupiter.bdcabletv.com/SonyAath/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha SD
 http://103.159.4.38:5868/IN-BANGLA-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD SK
