@@ -599,9 +599,9 @@ http://103.81.104.118/hls/ten-cricket.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuxMR1X.png" group-title="Sports", Ten Sports 
 http://ux38.gcdn.co/UKS48/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow HD 
-http://dxla2.gcdn.co/WC7243/tracks-v1a1/mono.m3u8
+http://dxla2.gcdn.co/WC30329/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic432.jpg" group-title="Sports", Willow Xtra
-http://indo51.gcdn.co/WILLOWCRICKETXTRA/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports",BT Sports 1
 http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8
