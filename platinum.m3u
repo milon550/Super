@@ -584,27 +584,25 @@ http://ux38.gcdn.co/SSVariety3/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/SSVariety4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports", S Premier League 
 http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
-#EXTINF:-1,S PSL
+#EXTINF:-1, S PSL
 http://ux38.gcdn.co/SSPSL/tracks-v1a1/mono.m3u8
-#EXTINF:-1,S Grandstand
+#EXTINF:-1, S Grandstand
 http://ux38.gcdn.co/SSGrandstand/tracks-v1a1/mono.m3u8
-#EXTINF:-1,S Tennis
+#EXTINF:-1, S Tennis
 http://ux38.gcdn.co/SSTennis/tracks-v1a1/mono.m3u8
-#EXTINF:-1,S Rugby
+#EXTINF:-1, S Rugby
 http://ux38.gcdn.co/SSRugby/tracks-v1a1/mono.m3u8
-#EXTINF:-1,S Golf
+#EXTINF:-1, S Golf
 http://ux38.gcdn.co/SSGolf/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,S Blitz
+#EXTINF:-1, S Blitz
 http://ux38.gcdn.co/SSBlitz/tracks-v1a1/mono.m3u8
-#EXTINF:-1,S Action
+#EXTINF:-1, S Action
 http://ux38.gcdn.co/SSAction/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports", Super Sports laliga
 http://ux38.gcdn.co/SSLaLiga/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.donasport.com/slike/supersport-cricket.jpg" group-title="Sports",Super Sports Cricket HD
 http://ux38.gcdn.co/SSCricket/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Mutv
+#EXTINF:-1, Mutv
 http://ux38.gcdn.co/UKS77/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fight Box
 http://ux38.gcdn.co/UKS76/tracks-v1a1/mono.m3u8
