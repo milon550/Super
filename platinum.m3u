@@ -179,7 +179,7 @@ http://indo51.gcdn.co/hindi-STARBHARATUS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus SD 
 http://103.159.4.38:5868/IN-BANGLA-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus HD 
-http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
+http://indo51.gcdn.co/hindi-STARPLUSindia/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi Entertainment",Star Bharat 4k
 http://tvflixfast01.ddns.net:8081/c1O7u0cF8lOzId/starbharat/chunks.m3u8
@@ -217,6 +217,10 @@ https://idvd.multitvsolution.com/idvo/moviehouse_540p/index.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae493a4359cfdcea90f8dfa04e4bc42fcca7bcd1d853320dab3c4ded7709401b7a6c66646711c947c824d2ef15ce47a2eea6846438f5ceee0f55402b01fd8caad8034216e4c458138d898027cf262530fc9defd78a48d9&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="Hindi Movies", Bfilx Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Q3MsZEvKgnc/YP1NmkhSRBI/AAAAAAAAAoQ/_pAjmCYjb0It9qljvEHkivQGDDwQeyVTwCLcBGAsYHQ/s200/images%2B%252819%2529.jpeg" group-title="Hindi Movies",MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pY7gZbSDt7M/YOv71mYSNQI/AAAAAAAAAXc/nSFS4O8T_U0xZ001vsfLtKHzNuUznB-oACLcBGAsYHQ/s200/images%2B%252814%2529%25281%2529.jpeg" group-title="Hindi Movies",MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi Movies", Colors Cineplex SD
 http://indo51.gcdn.co/hindi-COLORSCINEPLEXUK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi Movies", Colors Cineplex HD 
@@ -238,7 +242,8 @@ http://indo51.gcdn.co/hindi-SONYMAXindia/tracks-v1a1/mono.m3u8
 http://indo51.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h70werw.jpg" group-title="Hindi Movies", Sony Wah
 
-
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/dish-tv-movies-active-tv-channel-logo-150x150.jpg" group-title="Hindi Movies",movies active 
+http://indo51.gcdn.co/hindi-D2HCINEMA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/bbo.jpg" group-title="Hindi Movies",BBO
 http://indo51.gcdn.co/hindi-MTVHDPLUS/tracks-v1a1/mono.m3u8
