@@ -195,10 +195,10 @@ http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi Entertainment", Zee TV HD BDC
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Star_utsav.png/revision/latest?cb=20210520175932" group-title="Hindi Entertainment",Star Utsav
-http://indo51.gcdn.co/hindi-STARUTSAVHD/tracks-v1a1/mono.m3u8
+http://indo51.gcdn.co/hindi-EPICHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Colors-Rishtey.png" group-title="Hindi Entertainment",Colors Ristey
 http://indo51.gcdn.co/hindi-RISHTEY/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Big Magic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Colors-Rishtey.png" group-title="Hindi Entertainment",Big Magic
 http://indo51.gcdn.co/hindi-BIGMAGIC/tracks-v1a1/mono.m3u
 
 
@@ -873,15 +873,22 @@ https://tv-trtcocuk.live.trt.com.tr/master_480.m3u8
 http://cds1.discoveryftp.net/Movies/Hindi/2021/Bhoot%20Police/Bhoot.Police.2021.1080p.DSNP.WEB-DL.DD%2B5.1.x264-Telly.mkv
 #EXTINF: -1 tvg-logo="http://cds1.discoveryftp.net/Movies/Hindi/2021/Helmet/poster.jpg" group-title="NEW MOVIE HINDI",Helmet
 http://cds1.discoveryftp.net/Movies/Hindi/2021/Helmet/Helmet%202021%20Hindi%201080p%20HDRip%201.7GB%20ESubs.mkv
-EXTINF: -1 tvg-logo="http://cds1.discoveryftp.net/Movies/Hindi/2021/K%20K%20Hundred/poster.jpg" group-title="NEW MOVIE HINDI",K K Hundred
+#EXTINF: -1 tvg-logo="http://cds1.discoveryftp.net/Movies/Hindi/2021/K%20K%20Hundred/poster.jpg" group-title="NEW MOVIE HINDI",K K Hundred
 http://cds1.discoveryftp.net/Movies/Hindi/2021/K%20K%20Hundred/K%20K%20Hundred%20%282021%29%201080p%20WEB%20DL%20-%20X264%20-%20AAC%20-%20DUSIcTv.mp4
 
 
 
 
+***************Dubbed Animation*********
 
-
-
+#EXTINF: -1 tvg-logo="http://cds1.discoveryftp.net/Movies/Dubbed/Animation/2001/Shrek/poster.jpg" group-title="Dubbed Animation",Shrek 1
+http://cds1.discoveryftp.net/Movies/Dubbed/Animation/2001/Shrek/Shrek%20%282001%29%201080p%2010bit%20Bluray%20x265%20HEVC%20%5BOrg%20DD%202.0%20Hindi%20%2B%20DD%205.1%20English%5D%20MSubs%20~%20TombDoc.mkv
+#EXTINF: -1 tvg-logo="http://cds1.discoveryftp.net/Movies/Dubbed/Animation/2004/Shrek%202/poster.jpg" group-title="Dubbed Animation",Shrek 2
+http://cds1.discoveryftp.net/Movies/Dubbed/Animation/2004/Shrek%202/Shrek%202%20%282004%29%201080p%2010bit%20Bluray%20x265%20HEVC%20%5BOrg%20BD%202.0%20Hindi%20%2B%20DD%205.1%20English%5D%20MSubs%20~%20TombDoc.mkv
+#EXTINF: -1 tvg-logo="http://cds1.discoveryftp.net/Movies/Dubbed/Animation/2007/Shrek%20the%20Third/poster.jpg" group-title="Dubbed Animation",Shrek 3
+http://cds1.discoveryftp.net/Movies/Dubbed/Animation/2007/Shrek%20the%20Third/Shrek%20the%20Third%20%282007%29%201080p%2010bit%20Bluray%20x265%20HEVC%20%5BOrg%20BD%205.1%20Hindi%20%2B%20DD%205.1%20English%5D%20MSubs%20~%20TombDoc.mkv
+#EXTINF: -1 tvg-logo="http://cds1.discoveryftp.net/Movies/Dubbed/Animation/2010/Shrek%20Forever%20After/poster.jpg" group-title="Dubbed Animation",Shrek 4
+http://cds1.discoveryftp.net/Movies/Dubbed/Animation/2010/Shrek%20Forever%20After/Shrek%20Forever%20After%20%282010%29%201080p%2010bit%20Bluray%20x265%20HEVC%20%5BOrg%20BD%205.1%20Hindi%20%2B%20DD%205.1%20English%5D%20MSubs%20~%20TombDoc.mkv
 
 
 
