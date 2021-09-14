@@ -739,8 +739,8 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick Hindi
 http://70.39.83.58:8278/nickhindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick HD+
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick
+https://live.picasotv.xyz/autoq.php?c=Nick_Hindi&amp;q=800&amp;e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior Hindi
 http://tvflix004.ddns.net:3232/hungama-kids/index.m3u8?token=tvflixlive.ml
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior (2)
