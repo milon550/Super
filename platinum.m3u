@@ -606,7 +606,7 @@ http://103.81.104.118/hls/ten-cricket.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuxMR1X.png" group-title="Sports", Ten Sports 
 http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow HD 
-http://dxla2.gcdn.co/WC30329/tracks-v1a1/mono.m3u8
+http://jupiter.bdcabletv.com/WillowHD/mono.m3u8
 #EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic432.jpg" group-title="Sports", Willow Xtra
 
 
