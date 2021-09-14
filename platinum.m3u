@@ -243,7 +243,7 @@ http://indo51.gcdn.co/hindi-SONYMAXindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kw1CDQR.png" group-title="Hindi Movies", Sony Max 2
 http://indo51.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h70werw.jpg" group-title="Hindi Movies", Sony Wah
-
+http://indo51.gcdn.co/hindi-Sonymix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/dish-tv-movies-active-tv-channel-logo-150x150.jpg" group-title="Hindi Movies",movies active 
 http://indo51.gcdn.co/hindi-D2HCINEMA/tracks-v1a1/mono.m3u8
 
@@ -281,7 +281,7 @@ http://indo51.gcdn.co/hindi-ZEEBOLLYWOOD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies", Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies", Zee Cinema
-https://cdn.nowhdtime.com.bd/ZeeCinema/tracks-v1a1/mono.m3u8
+http://indo51.gcdn.co/hindi-ZEECinemaSD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/B4U_Movies.png" group-title="Hindi Movies",B4UMovies
 http://indo51.gcdn.co/hindi-B4UMovies/tracks-v1a1/mono.m3u8
 
