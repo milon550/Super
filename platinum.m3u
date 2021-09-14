@@ -822,8 +822,8 @@ http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 http://indo51.gcdn.co/kids-POGO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Kids", Sonic Nickeloden Hindi
 http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay SK
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay Bangla
+http://103.81.104.118/hls/sonyyay.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay 
 http://indo51.gcdn.co/kids-SonyYay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay Hindi
