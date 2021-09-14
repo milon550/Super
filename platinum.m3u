@@ -89,7 +89,7 @@ http://indo51.gcdn.co/BANGLA-IND-AKASH8/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://iptv.itcnbd.com/images/sonyaath.jpg" group-title="Indian Bangla", Sony Aath
-
+https://cdn.nowhdtime.com.bd/SonyAath/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla SD
 http://tvflixtn.ddns.net/hls/colorsbangla.m3u8
@@ -117,7 +117,7 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1eCbGa7.png" group-title="Indian Bangla", Ruposhi Bangla
 http://indo51.gcdn.co/BANGLA-IND-Rupashibangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aath
-http://indo51.gcdn.co/BANGLA-IND-SONY8/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aath HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha SD
@@ -133,7 +133,7 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-STARJALSHA/tracks-v1a1/index.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla SK
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla SD
-http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
+https://cdn.nowhdtime.com.bd/ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD 
 http://indo51.gcdn.co/BANGLA-IND-ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD 
