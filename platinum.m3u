@@ -630,7 +630,17 @@ http://sptkid.gcdn.co/mlbbaseball/tracks-v1a1/mono.m3u8
 http://sptkid.gcdn.co/nbatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TSN 1
 http://sptkid.gcdn.co/tsn11/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1,Sport tv 1
+http://sotkid.gcdn.co/sportv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sport tv 2
+http://sptkid.gcdn.co/sporttv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sport tv 3
+http://sptkid.gcdn.co/sporttv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sport tv 4
+http://sptkid.gcdn.co/sporttv4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sport tv 5
+http://sptkid.gcdn.co/sporttv15/tracks-v1a1/mono.m3u8
+#EXTINF:-1,olymoic
 #EXTINF:-1,TSN 2
 http://sptkid.gcdn.co/tsn22/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TSN 3
