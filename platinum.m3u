@@ -614,7 +614,7 @@ http://sptkid.gcdn.co/espn/tracks-v1a1/mono.m3u8
 http://sptkid.gcdn.co/espn2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",Fox Sport 1
 http://sptkid.gcdn.co/foxsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Fox Sport 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",Fox Sport 2
 http://sptkid.gcdn.co/foxsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",NBC Sport
 http://sptkid.gcdn.co/nbcsports/tracks-v1a1/mono.m3u8
