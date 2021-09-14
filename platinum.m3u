@@ -582,11 +582,67 @@ http://ux38.gcdn.co/SSVariety2/tracks-v1a1/mono.m3u8
 http://ux38.gcdn.co/SSVariety3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports", Super Sports Variety 4
 http://ux38.gcdn.co/SSVariety4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports", S Premier League 
+http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
+#EXTINF:-1,S PSL
+http://ux38.gcdn.co/SSPSL/tracks-v1a1/mono.m3u8
+#EXTINF:-1,S Grandstand
+http://ux38.gcdn.co/SSGrandstand/tracks-v1a1/mono.m3u8
+#EXTINF:-1,S Tennis
+http://ux38.gcdn.co/SSTennis/tracks-v1a1/mono.m3u8
+#EXTINF:-1,S Rugby
+http://ux38.gcdn.co/SSRugby/tracks-v1a1/mono.m3u8
+#EXTINF:-1,S Golf
+http://ux38.gcdn.co/SSGolf/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,S Blitz
+http://ux38.gcdn.co/SSBlitz/tracks-v1a1/mono.m3u8
+#EXTINF:-1,S Action
+http://ux38.gcdn.co/SSAction/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports", Super Sports laliga
 http://ux38.gcdn.co/SSLaLiga/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.donasport.com/slike/supersport-cricket.jpg" group-title="Sports",Super Sports Cricket HD
 http://ux38.gcdn.co/SSCricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Mutv
+http://ux38.gcdn.co/UKS77/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Fight Box
+http://ux38.gcdn.co/UKS76/tracks-v1a1/mono.m3u8
+#EXTINF:-1,WWE
+http://sptkid.gcdn.co/wwe/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ESPN
+http://sptkid.gcdn.co/espn/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ESPN 2
+http://sptkid.gcdn.co/espn2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Fox Sport 1
+http://sptkid.gcdn.co/foxsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Fox Sport 2
+http://sptkid.gcdn.co/foxsports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NBC Sport
+http://sptkid.gcdn.co/nbcsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1, J Golf
+http://sptkid.gcdn.co/jgolf/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NFL Network
+http://sptkid.gcdn.co/nflnetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MLB Baseball
+http://sptkid.gcdn.co/mlbbaseball/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NBA TV
+http://sptkid.gcdn.co/nbatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TSN 1
+http://sptkid.gcdn.co/tsn11/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,TSN 2
+http://sptkid.gcdn.co/tsn22/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TSN 3
+http://sptkid.gcdn.co/tsn33/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TSN 4
+http://sptkid.gcdn.co/tsn44/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TSN 5
+http://sptkid.gcdn.co/tsn55/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sn 1
+http://sptkid.gcdn.co/sn1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sn Now
+http://sptkid.gcdn.co/sno/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket SD
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket FHD Global
