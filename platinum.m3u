@@ -490,6 +490,8 @@ https://mn-nl.mncdn.com/haditv_live9/smil:haditv_live9.smil/chunklist_b1296000.m
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MbFLNX.png" group-title="Religious", Peace TV English
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="Religious", Peace TV Bangla
+http://indo51.gcdn.co/BANGLA-BD-PeacetvBangla/tracks-v1a1/mono.m3u8
 
 
 
