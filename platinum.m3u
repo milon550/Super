@@ -213,6 +213,8 @@ http://indo51.gcdn.co/hindi-BIGMAGIC/tracks-v1a1/mono.m3u
 http://indo51.gcdn.co/hindi-B4UPLUS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Hindi Movies", & Pictures SD
 http://103.159.4.38:5868/MOVIE-7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Hindi Movies", & Pictures SD
+https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Hindi Movies", & Pictures HD
 http://indo51.gcdn.co/hindi-&PICTUREHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/97146-B4UKadak.jpg" group-title="Hindi Movies",B4U Khadak
@@ -394,9 +396,11 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQAWK6A.png" group-title="English Movies", & Flix HD
-
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English Movies", & Prive HD
-
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+#EXTINF:-1 tvg-logo="g" group-title="English Movies", Zee5 Romance (1080p)
+https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movies", AXN
 http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2g1RZpU.png" group-title="English Movies", Blue Ant Entertainment
