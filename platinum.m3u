@@ -804,6 +804,8 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w920137870.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv 
 http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv 2
+https://bit.ly/2YH5qrG
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DXPWPi3.png" group-title="Kids", Marvel HQ
 http://70.39.83.58:8278/marvelhqhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDsHkBv.png" group-title="Kids", Majed
@@ -852,10 +854,10 @@ https://idvd.multitvsolution.com:443/idvo/discoverykidshindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zttm0bq.png" group-title="Kids Hindi", Dishney Junior [H]
 http://70.39.83.58:8278/disneyjuniorhindikdin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/shEcc31.png" group-title="Kids Hindi", Lale [H]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/shEcc31.png" group-title="Kids", Lale [H]
 http://stream.atr.ua/lale//live/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mx6sZOU.png" group-title="Kids Hindi", TRT Cocuk [H]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mx6sZOU.png" group-title="Kids", TRT Cocuk [H]
 https://tv-trtcocuk.live.trt.com.tr/master_480.m3u8
 
 
