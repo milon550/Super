@@ -164,8 +164,8 @@ http://173.199.120.51/hls/chc.m3u8
 http://indo51.gcdn.co/hindi-COLORSindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi Entertainment", Sony Entertainment HD
 http://indo51.gcdn.co/hindi-SONYindia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi Entertainment", Sony Entertainment HD SK
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi Entertainment", Sony Entertainment HD 
+https://bit.ly/3yWDI6B
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi Entertainment", Sony Entertainment
 http://173.199.120.51/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QX7M2Cc.png" group-title="Hindi Entertainment", Sony Pal
@@ -519,8 +519,8 @@ http://sptkid.gcdn.co/beinsports4/tracks-v1a1/mono.m3u8
 http://stop.next-code.xyz:2052/Nador/66263/6333
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="Sports", Bein Sports premium 1
 http://sptkid.gcdn.co/b8hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="Sports", Bein Sports premium 1 sd
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="Sports", Bein Sports premium 1 
+http://13.alysineoura.xyz/live/6161655/index.m3u8?samitvhd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="Sports", Bein Sports premium 1 hd (m)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="Sports", Bein Sports premium 1 4K
