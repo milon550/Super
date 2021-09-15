@@ -793,6 +793,8 @@ https://feed.play.mv/live/10005200/QjZ4g9TmAa/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids", Disney English
 http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zttm0bq.png" group-title="Kids", Disney JR Hindi
+https://bit.ly/3A7MTTm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zttm0bq.png" group-title="Kids", Disney JR Hindi
 http://pkr.cinepex.tv:8278/disneyjuniorhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Amjx4BZ.png" group-title="Kids", Disney XD
 http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
