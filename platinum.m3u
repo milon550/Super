@@ -706,8 +706,7 @@ http://89.187.185.100:80/BT_SPORTS_EXTRA_3/tracks-v1a1/mono.m3u8
                                                     ***** Music *****
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VuEsPDV.png" group-title="Music",Khadak Hitz
-https://bit.ly/3lkI6HN
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music", 1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VuEsPDV.png" group-title="Music", 8XM SK
@@ -758,7 +757,28 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 http://indo51.gcdn.co/hindi-ZINGTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Music", Zoom SK
 http://indo51.gcdn.co/hindi-ZOOMindia/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.radio.de/images/broadcasts/85/35/2550/2/c300.png",M2O Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/RHtAK5Z.png",Deejay Tv
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://dilsekolkata.files.wordpress.com/2017/04/dil-se-logo1.jpg",Dil se
+https://live.hungama.com/linear/dil-se/playlist.m3u8?@asfaiptv
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/H8jF5CD.png",Slam Tv
+http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/nl-slamtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="http://cdn.teleon.tv/logo/mk-tunes-in.png",Mk Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/0ujfLYr.png",RU.TV
+https://rutv.gcdn.co/streams/1410_95/480n/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/aPeUbKr.png",VH1
+https://d3pu3hnym3eusd.cloudfront.net/VH1.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/WjecjJ1.png",VH1 (uk)
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/3943
+#EXTINF:-1 group-title="Music" tvg-logo="https://is.gd/nqKl1Z",Channel V
+http://mygoodstream.pw/proxy.php/https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="http://103.109.56.115/skynet@8080/ftpdata/live_TV/Pop-Patakha-Hungama.png",pop-pataka
+https://live.hungama.com/linear/pop-pataka/playlist_360p/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="http://103.109.56.115/skynet@8080/ftpdata/live_TV/Kadak-Hits.png",khadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist_240p/index.m3u8
 
 
                                                     ***** Kids *****
