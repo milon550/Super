@@ -153,11 +153,8 @@ http://indo51.gcdn.co/BANGLA-IND-ZEEBANGLACinema/tracks-v1a1/mono.m3u8
                                                     ***** Hindi Entertainment *****
                                                     
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi Entertainment", & TV HD  
-http://indo51.gcdn.co/hindi-&tvHDindia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi Entertainment", & TV SD
-http://173.199.120.51/hls/andtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi Entertainment", & TV HD
-http://indo51.gcdn.co/hindi-&tvHDindia/tracks-v1a1/mono.m3u8
+http://indo51.gcdn.co/hindi-&TVUK/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/DangalTVLogo.png" group-title="Hindi Entertainment", Dangal
 https://idvd.multitvsolution.com/idvo/dangal_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vKkvbXw.png" group-title="Hindi Entertainment", Colors 
