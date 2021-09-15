@@ -317,7 +317,7 @@ https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English Infotainment", Discovery sd BANGLA
 http://indo51.gcdn.co/BANGLA-BD-DISCOVERYBANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English Infotainment", Discovery HD Bangla
-http://103.81.104.118/hls/discovery.m3u8
+https://cdn.nowhdtime.com.bd/DiscoveryHDWORLD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English Infotainment", Discovery HD Bangla
 http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="English Infotainment", Discovery Science Hindi
@@ -500,6 +500,8 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OA19S3j.png" group-title="Sports", AD Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OA19S3j.png" group-title="Sports", AD Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports HD
 http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports 1 HD 
