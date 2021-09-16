@@ -176,7 +176,7 @@ https://cdn.nowhdtime.com.bd/SonySAB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QX7M2Cc.png" group-title="Hindi Entertainment", Sony Sab
 http://bestbuyiptv.live:8080/live/zaltv55511/8KSzf6ng/325.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QLmjHpX.png" group-title="Hindi Entertainment", Sony SAB HD 4k
-
+http://tvflixpj.hopto.org/SonySabHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QLmjHpX.png" group-title="Hindi Entertainment", Sony Sab HD 
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QLmjHpX.png" group-title="Hindi Entertainment", Sony SAB HD
@@ -601,6 +601,8 @@ http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/index.m3u8?t=4c78b6db0d2259010f
 http://dxla2.gcdn.co/WC30630/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD (2)
 http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD (3)
+http://tvflixpj.hopto.org/Star-Sports_1HD_ENC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 SD
 http://jupiter.bdcabletv.com/ENC-4/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 HD
