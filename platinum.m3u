@@ -1602,26 +1602,23 @@ http://193.161.193.99:49103/jt/suriya/jt.php?c=Velukkudi_Discourses&q=800
 http://193.161.193.99:49103/jt/suriya/jt.php?c=News_J&q=800
 #EXTINF:-1 tvg-id="1537" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RadheKrishna_TV.png" group-title="Tamil",RadheKrishna TV
 http://193.161.193.99:49103/jt/suriya/jt.php?c=RadheKrishna_TV&q=800
+#EXTM3U
+#Credits Goto = https://t.me/livetvtamil
+
+
+
+
+
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TV
-http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasitv/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TAMIL
-http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasitamil/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MUSIC
-http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MOVIES
-http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasimovies/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI HOLLYWOOD
-http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TELUGU
-http://singamcloud.in:1935/rasinetwork/rasitelugu/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI CLASSIC
-http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI HINDI
-http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI LIFESTLYE
-http://singamcloud.in:1935/rasinetwork/cookings/chunklist.m3u8
-
-
+http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8 
 #EXTINF:-1,Star Vijay HD
 http://watchindia.net:8880/live/33253/72963/846.ts
 #EXTINF:-1,Star Vijay HD 2
