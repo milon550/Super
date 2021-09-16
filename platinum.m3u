@@ -142,8 +142,8 @@ http://indo51.gcdn.co/BANGLA-IND-ZeeBanglaHD/tracks-v1a1/mono.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-ZEEBANGLA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae4a394155cad0d3fb6590a4994ad08d77346bc38e60e12e23d1e4c475b50b48f09950198e189a4b5a10ac74d1bd01ed0ad7cfe9fe35b93d1b3962912dfc9efa50066fb3a87e338845a44e7a813af5fa5d111e8be9802b&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema
 http://indo51.gcdn.co/BANGLA-IND-ZEEBANGLACinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema 
-
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS5hyfuFYFDdBvmkYbXap9KAfhBogoCq49syVKy=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Rongeen Tv
+http://14.199.164.20:4001/play/a0m1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zplvx69.png" group-title="Indian Bangla", Zee 24 Ghanta
 
@@ -195,12 +195,12 @@ http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi Entertainment", Zee TV
 http://173.199.120.51/hls/zeetvhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi Entertainment", Zee TV HD BDC
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Star_utsav.png/revision/latest?cb=20210520175932" group-title="Hindi Entertainment",Star Utsav
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdXZSTLMp-JHBILZy5OGYEm_iO4Fc44GZQ4KX3x6eDfcI-K7M&s" group-title="Hindi Entertainment",Dhamal
+http://14.199.164.20:4001/play/a0n9/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Colors-Rishtey.png" group-title="Hindi Entertainment",Colors Ristey
 http://indo51.gcdn.co/hindi-RISHTEY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Colors-Rishtey.png" group-title="Hindi Entertainment",Big Magic
-http://indo51.gcdn.co/hindi-BIGMAGIC/tracks-v1a1/mono.m3u
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Enterr10.png/revision/latest?cb=20190521071144" group-title="Hindi Entertainment"Enter 10
+http://14.199.164.20:4001/play/a0j6/index.m3u8
 
 
 
@@ -239,8 +239,10 @@ http://mygoodstream.pw/proxy.php/https://shls-mbcbollywood-prod-dub.shahid.net/o
 https://cdn.nowhdtime.com.bd/SonyMaxHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Movies", Sony Max HD 2
 http://indo51.gcdn.co/hindi-SONYMAXUK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Movies", Sony Max HD BDC
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Movies", Sony Max HD 3
+https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Movies", Sony Max HD 4
+http://jupiter.bdcabletv.com/SonyMax/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi Movies", Sony Max SD
 http://indo51.gcdn.co/hindi-SONYMAXindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kw1CDQR.png" group-title="Hindi Movies", Sony Max 2
@@ -287,8 +289,8 @@ http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 http://indo51.gcdn.co/hindi-ZEECinemaSD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/B4U_Movies.png" group-title="Hindi Movies",B4UMovies
 http://indo51.gcdn.co/hindi-B4UMovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/B4U_Movies.png" group-title="Hindi Movies",B4UMovies 2
-http://173.199.120.51/hls/b4umovies.m3u8
+#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="Hindi Movies",WoW Cinema One
+http://14.199.164.20:4001/play/a0n3/index.m3u8
 
 
                                                     ***** English Infotainment *****
@@ -357,8 +359,8 @@ http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
 http://mygoodstream.pw/proxy.php/https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png" group-title="English Infotainment",Fox Life
 http://indo51.gcdn.co/hindi-DISCOVERYJEET/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="English Infotainment", Travel XP HD Bangla
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="English Infotainment",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
                                                     ***** English News *****
 
@@ -420,8 +422,8 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English Movies", HBO (2)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nOiPsyr.png" group-title="English Movies", HBO Hits
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nOiPsyr.png" group-title="English Movies",MAX HD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/an5P0s0.png" group-title="English Movies", HBO Signature
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HzzUQRK.png" group-title="English Movies", Lotus Macau SK
@@ -587,7 +589,7 @@ http://dxla2.gcdn.co/WC30623/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 Hindi 
-http://www.sansat.net:25461/qHyTvpD2pazsNj5/FEDYtKBZPd/93725
+http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
 http://dxla2.gcdn.co/WC30630/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD (2)
@@ -790,6 +792,8 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://dilsekolkata.files.wordpress.com/2017/04/dil-se-logo1.jpg",Dil se
 https://live.hungama.com/linear/dil-se/playlist.m3u8?@asfaiptv
+#EXTINF:-1 group-title="Music" tvg-logo="https://dilsekolkata.files.wordpress.com/2017/04/dil-se-logo1.jpg",Dil se 2
+https://live.hungama.com/linear/dil-se/playlist_360p/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/H8jF5CD.png",Slam Tv
 http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/nl-slamtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://cdn.teleon.tv/logo/mk-tunes-in.png",Mk Tunes
