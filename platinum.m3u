@@ -191,6 +191,8 @@ http://indo51.gcdn.co/hindi-STARPLUSHDindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment",Utsav plus
 http://indo51.gcdn.co/hindi-StarplusUK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi Entertainment", Zee TV HD
+http://indo51.gcdn.co/hindi-ZEETVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi Entertainment", Zee TV HD
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi Entertainment", Zee TV
 http://173.199.120.51/hls/zeetvhd.m3u8
