@@ -60,6 +60,8 @@ http://indo51.gcdn.co/BANGLA-BD-MYTV/tracks-v1a1/mono.m3u8
 http://indo51.gcdn.co/BANGLA-BD-NAGORIKTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="Bangladeshi", News 24 HD
 http://indo51.gcdn.co/BANGLA-BD-NEWS24HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="Bangladeshi", News 24 HD 2
+http://bestbuyiptv.live:8080/live/riomilon1/qp5ajaCu/54021.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ai5p9BP.jpg" group-title="Bangladeshi", Nexus TV 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Bangladeshi", NTV BD
@@ -901,7 +903,7 @@ http://indo51.gcdn.co/kids-POGO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Kids", Sonic Nickeloden Hindi
 http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay Bangla
-http://103.81.104.118/hls/sonyyay.m3u8
+https://cdn.nowhdtime.com.bd/SonyYay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay 
 http://indo51.gcdn.co/kids-SonyYay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay Hindi
