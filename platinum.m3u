@@ -113,7 +113,7 @@ http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD 
-http://bestbuyiptv.live:8080/live/riomilon1/qp5ajaCu/9147.m3u8
+http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD 2
 http://bestbuyiptv.live:8080/live/riomilon1/qp5ajaCu/54179.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kXfuCMM.png" group-title="Indian Bangla", News 18 Bangla
@@ -141,7 +141,7 @@ https://cdn.nowhdtime.com.bd/ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD 
 http://indo51.gcdn.co/BANGLA-IND-ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD new
-http://bestbuyiptv.live:8080/live/zaltv55511/n8a2ro/54020.m3u8 
+http://212.102.60.40:2200/R-EX/FHD_ZEE_BANGLA_-in/tracks-v1a1/mono.m3u8?token=
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla FHD
