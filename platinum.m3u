@@ -366,7 +366,7 @@ http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment", National Geographic Wild 
 http://212.102.60.40:2200/R-EX/HINDI_NAT_GEO_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment", National Geographic Wild Hindi
-http://212.102.60.40:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/tracks-v1a1/mono.m3u8?token=
+http://indo51.gcdn.co/hindi-Natgeowildhindi-/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiHUL9p.png" group-title="English Infotainment", Outdoor SD
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English Infotainment", TLC SD Hindi
