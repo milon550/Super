@@ -331,7 +331,7 @@ http://indo51.gcdn.co/BANGLA-BD-DISCOVERYBANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English Infotainment", Discovery HD 
 https://cdn.nowhdtime.com.bd/DiscoveryHDWORLD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English Infotainment", Discovery HD 2
-http://212.102.60.40:2200/R-EX/FHD_DISCOVERY_-in/tracks-v1a1/mono.m3u8?token=
+http://212.102.60.40:2200/R-EX/ENGLISH_DISCOVERY_WORLD_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English Infotainment", Discovery HD Bangla
 http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
