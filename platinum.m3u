@@ -353,20 +353,31 @@ http://indo51.gcdn.co/hindi-HISTORY18/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="English Infotainment", NASA TV
 http://mygoodstream.pw/proxy.php/https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English Infotainment", National Geographic HD Hindi
-http://212.102.60.40:2200/R-EX/ENGLISH_NAT_GEO_WILD_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English Infotainment", National Geographic HD
-http://212.102.60.40:2200/R-EX/FHD_NATIONAL_GEO_-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English Infotainment", National Geographic HD Bangla 
-http://212.102.60.40:2200/R-EX/ENGLISH_NATGEO_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English Infotainment", National Geographic HD 
- http://212.102.60.40:2200/R-EX/BENGALI_NAT_GEO_BENGALI_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment", National Geographic Wild HD
-http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment", National Geographic Wild 
-http://212.102.60.40:2200/R-EX/HINDI_NAT_GEO_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment", National Geographic Wild Hindi
-http://indo51.gcdn.co/hindi-Natgeowildhindi-/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="US: Nat Geo Wild FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="English Infotainment",Nat Geo Wild FHD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/46850.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="US: Nat Geo Wild FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="English Infotainment", Nat Geo Wild FHD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/8554.m3u8
+#EXTINF:-1 tvg-ID="natgeo.us" tvg-name="US: National Geographic" tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png-ng-logo-gray-png-2000.png" group-title="English Infotainment",National Geographic
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/1095.m3u8
+#EXTINF:-1 tvg-ID="natgeo.us" tvg-name="US: NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png" group-title="English Infotainment",NATIONAL GEOGRAPHIC CHANNEL
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/48061.m3u8
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="BD: BANGLA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" group-title="India",BD: BANGLA TV HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54023.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BD: COLORS BANGLA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="India",BD: COLORS BANGLA HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54022.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BD: DEEPTO TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="India",BD: DEEPTO TV HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54019.m3u8
+#EXTINF:-1 tvg-ID="news24.in" tvg-name="BD: NEWS 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="India",BD: NEWS 24 HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54021.m3u8
+#EXTINF:-1 tvg-ID="starjalshahd.in" tvg-name="BD: STAR JALSHA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="India",BD: STAR JALSHA HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54018.m3u8
+#EXTINF:-1 tvg-ID="zeebanglahd.in" tvg-name="BD: ZEE BANGLA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="India",BD: ZEE BANGLA HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54020.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiHUL9p.png" group-title="English Infotainment", Outdoor SD
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English Infotainment", TLC SD Hindi
