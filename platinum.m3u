@@ -353,6 +353,18 @@ http://indo51.gcdn.co/hindi-HISTORY18/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="English Infotainment", NASA TV
 http://mygoodstream.pw/proxy.php/https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+
+
+
+
+
+
+********************************************************************************************************************************************************************
+
+
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="US: Nat Geo Wild FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="English Infotainment",Nat Geo Wild FHD
 http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/46850.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="US: Nat Geo Wild FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="English Infotainment", Nat Geo Wild FHD
@@ -361,9 +373,128 @@ http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/8554.m3u8
 http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/1095.m3u8
 #EXTINF:-1 tvg-ID="natgeo.us" tvg-name="US: NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png" group-title="English Infotainment",NATIONAL GEOGRAPHIC CHANNEL
 http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/48061.m3u8
-
-
-
+#EXTINF:-1 tvg-ID="sonypix.in" tvg-name="IN: sony pix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="India",IN: sony pix HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/7703.m3u8
+#EXTINF:-1 tvg-ID="sonypix.in" tvg-name="IN: sony pix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="India",IN: sony pix HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54057.m3u8
+#EXTINF:-1 tvg-ID="SONY ROX HD" tvg-name="IN: SONY ROX HD HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Sonyrox.jpg" group-title="India",IN: SONY ROX HD HINDI
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/17088.m3u8
+#EXTINF:-1 tvg-ID="sonysab.in" tvg-name="IN: SONY SAB" tvg-logo="https://www.pngkit.com/png/detail/29-294938_sony-sab-logo-sab-tv.png" group-title="India",IN: SONY SAB
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/325.m3u8
+#EXTINF:-1 tvg-ID="sonysab.in" tvg-name="IN: Sony SAB HD" tvg-logo="https://www.pngkit.com/png/detail/29-294938_sony-sab-logo-sab-tv.png" group-title="India",IN: Sony SAB HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54062.m3u8
+#EXTINF:-1 tvg-ID="sonysab.in" tvg-name="IN: Sony SAB HD" tvg-logo="https://www.pngkit.com/png/detail/29-294938_sony-sab-logo-sab-tv.png" group-title="India",IN: Sony SAB HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/17103.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY SETMAX HD" tvg-logo="https://download.logo.wine/logo/Sony_Max/Sony_Max-Logo.wine.png" group-title="India",IN: SONY SETMAX HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54054.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY SETMAX HD" tvg-logo="https://download.logo.wine/logo/Sony_Max/Sony_Max-Logo.wine.png" group-title="India",IN: SONY SETMAX HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/29549.m3u8
+#EXTINF:-1 tvg-ID="sonysix.in" tvg-name="IN: Sony Six HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="India",IN: Sony Six HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54056.m3u8
+#EXTINF:-1 tvg-ID="sonysix.in" tvg-name="IN: Sony Six HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="India",IN: Sony Six HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/17102.m3u8
+#EXTINF:-1 tvg-ID="sonyten1.in" tvg-name="IN: SONY TEN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="India",IN: SONY TEN 1 HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54055.m3u8
+#EXTINF:-1 tvg-ID="sonyten1.in" tvg-name="IN: SONY TEN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="India",IN: SONY TEN 1 HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/29548.m3u8
+#EXTINF:-1 tvg-ID="sonyten2.in" tvg-name="IN: SONY TEN 2 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="India",IN: SONY TEN 2 HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54032.m3u8
+#EXTINF:-1 tvg-ID="sonyten2.in" tvg-name="IN: SONY TEN 2 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="India",IN: SONY TEN 2 HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/29547.m3u8
+#EXTINF:-1 tvg-ID="sonyten3.in" tvg-name="IN: SONY TEN 3 HD" tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" group-title="India",IN: SONY TEN 3 HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54059.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="India",IN: Sony TV HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54044.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Sony TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="India",IN: Sony TV HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/313.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SONY TV streamFHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_Sony_Entertainment_Television_HD.jpg" group-title="India",IN: SONY TV streamFHD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/51420.m3u8
+#EXTINF:-1 tvg-ID="sonywah.in" tvg-name="IN: SONY Wah" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="India",IN: SONY Wah
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/31864.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SPO GEOSUPER FHD" tvg-logo="https://www.geosuper.tv/assets/front/img/live_banner.jpg" group-title="India",IN: SPO GEOSUPER FHD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54154.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SPO PTV SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="India",IN: SPO PTV SPORTS FHD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54244.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SPO SONY SIX FHD" tvg-logo="https://1.bp.blogspot.com/-lfWQ3kakVd4/UCf_-ZrF2yI/AAAAAAAAKgA/bRCo7xrX3Gw/s1600/Sony+Six+logo+2012.png" group-title="India",IN: SPO SONY SIX FHD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54238.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SPO STAR SPORTS SELECT 1 FHD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/star-select-hd1-large.png" group-title="India",IN: SPO STAR SPORTS SELECT 1 FHD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54242.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SPO STAR SPORTS SELECT 2 FHD" tvg-logo="https://uploads.tapatalk-cdn.com/20160810/9e9c6a49d0da9ea8529355064e7a05dc.jpg" group-title="India",IN: SPO STAR SPORTS SELECT 2 FHD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54243.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SPO STAR SPORTS1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="India",IN: SPO STAR SPORTS1 FHD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54239.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SPO STAR SPORTS2 FHD" tvg-logo="https://www.logolynx.com/images/logolynx/d4/d45270f0d1dc46feafd57c63a8c53146.png" group-title="India",IN: SPO STAR SPORTS2 FHD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54240.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SPO STAR SPORTSHINDI1 FHD" tvg-logo="https://sportscentre4u.com/wp-content/uploads/2020/01/STAR-SPORTS-1-LIVE-STREAMING.jpg" group-title="India",IN: SPO STAR SPORTSHINDI1 FHD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54241.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SPO TEN1 FHD" tvg-logo="https://www.beeiptv.com/wp-content/uploads/2019/08/ten1.jpg" group-title="India",IN: SPO TEN1 FHD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54249.m3u8
+#EXTINF:-1 tvg-ID="sony.ten.2.hd.en" tvg-name="IN: SPO TEN2 FHD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="India",IN: SPO TEN2 FHD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54248.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SPO TEN3 FHD" tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" group-title="India",IN: SPO TEN3 FHD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54247.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SSTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Sur_Sagar_TV.png" group-title="India",IN: SSTV FHD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/51422.m3u8
+#EXTINF:-1 tvg-ID="starbharat.in" tvg-name="IN: STAR BHARAT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="India",IN: STAR BHARAT
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/40411.m3u8
+#EXTINF:-1 tvg-ID="stargold.in" tvg-name="IN: Star Gold" tvg-logo="https://image3.mouthshut.com/images/imagesp/925856960s.jpg" group-title="India",IN: Star Gold
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/53.m3u8
+#EXTINF:-1 tvg-ID="stargold.in" tvg-name="IN: STAR GOLD HD" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="India",IN: STAR GOLD HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/17101.m3u8
+#EXTINF:-1 tvg-ID="stargold.in" tvg-name="IN: STAR GOLD HD" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="India",IN: STAR GOLD HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/53999.m3u8
+#EXTINF:-1 tvg-ID="stargold.in" tvg-name="IN: STAR GOLD HD+" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="India",IN: STAR GOLD HD+
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54031.m3u8
+#EXTINF:-1 tvg-ID="stargold.in" tvg-name="IN: STAR GOLD SD" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="India",IN: STAR GOLD SD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/1411.m3u8
+#EXTINF:-1 tvg-ID="starjalshahd.in" tvg-name="IN: Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="India",IN: Star Jalsha
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/890.m3u8
+#EXTINF:-1 tvg-ID="starmovies.in" tvg-name="IN: Star movies" tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg" group-title="India",IN: Star movies
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/17098.m3u8
+#EXTINF:-1 tvg-ID="starmoviesselecthd.in" tvg-name="IN: STAR MOVIES  SELECT HD+" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/starmovies-hd-lg.jpg" group-title="India",IN: STAR MOVIES  SELECT HD+
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54026.m3u8
+#EXTINF:-1 tvg-ID="starmovies.in" tvg-name="IN: STAR MOVIES HD+" tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg" group-title="India",IN: STAR MOVIES HD+
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54045.m3u8
+#EXTINF:-1 tvg-ID="starplus.in" tvg-name="IN: Star Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="India",IN: Star Plus
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/1062.m3u8
+#EXTINF:-1 tvg-ID="starplus.in" tvg-name="IN: Star Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="India",IN: Star Plus
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/52.m3u8
+#EXTINF:-1 tvg-ID="starplus.in" tvg-name="IN: STAR PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="India",IN: STAR PLUS HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54052.m3u8
+#EXTINF:-1 tvg-ID="starplus.in" tvg-name="IN: STAR PLUS HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="India",IN: STAR PLUS HD+
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54030.m3u8
+#EXTINF:-1 tvg-ID="STAR PLUS" tvg-name="IN: Star Plus UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="India",IN: Star Plus UK
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/1061.m3u8
+#EXTINF:-1 tvg-ID="Star Pravah HD" tvg-name="IN: STAR PRAVAH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="India",IN: STAR PRAVAH HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/7697.m3u8
+#EXTINF:-1 tvg-ID="starpravahhd.in" tvg-name="IN: STAR PRAVAH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="India",IN: STAR PRAVAH HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Sport1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="India",IN: Star Sport1HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/40881.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Star Sport2HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="India",IN: Star Sport2HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/40880.m3u8
+#EXTINF:-1 tvg-ID="starsports1.in" tvg-name="IN: STAR SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="India",IN: STAR SPORTS 1 HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/3250.m3u8
+#EXTINF:-1 tvg-ID="starsports1.in" tvg-name="IN: STAR SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="India",IN: STAR SPORTS 1 HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/53996.m3u8
+#EXTINF:-1 tvg-ID="starsports1hindi.in" tvg-name="IN: STAR SPORTS 1 HINDI HD" tvg-logo="https://i.pinimg.com/736x/5b/ce/2a/5bce2aa395af0eaa8d138d03e944fb9a.jpg" group-title="India",IN: STAR SPORTS 1 HINDI HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/53994.m3u8
+#EXTINF:-1 tvg-ID="starsports2.in" tvg-name="IN: STAR SPORTS 2 HD" tvg-logo="https://www.logolynx.com/images/logolynx/d4/d45270f0d1dc46feafd57c63a8c53146.png" group-title="India",IN: STAR SPORTS 2 HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/3249.m3u8
+#EXTINF:-1 tvg-ID="starsports2.in" tvg-name="IN: STAR SPORTS 2 HD" tvg-logo="https://www.logolynx.com/images/logolynx/d4/d45270f0d1dc46feafd57c63a8c53146.png" group-title="India",IN: STAR SPORTS 2 HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/53992.m3u8
+#EXTINF:-1 tvg-ID="starsports3.in" tvg-name="IN: STAR SPORTS 3 HD" tvg-logo="https://e7.pngegg.com/pngimages/362/254/png-clipart-star-sports-3-logo-television-channel-star-india-news-live-television-text.png" group-title="India",IN: STAR SPORTS 3 HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/3248.m3u8
+#EXTINF:-1 tvg-ID="starsportsselect1.in" tvg-name="IN: STAR SPORTS SELECT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="India",IN: STAR SPORTS SELECT 1 HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/17086.m3u8
+#EXTINF:-1 tvg-ID="starsportsselect2.in" tvg-name="IN: STAR SPORTS SELECT 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-star-sports-select-2-231.png" group-title="India",IN: STAR SPORTS SELECT 2 HD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/17085.m3u8
+#EXTINF:-1 tvg-ID="Star Sports 1 HD" tvg-name="IN: Star Sports1-SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="India",IN: Star Sports1-SD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/301.m3u8
+#EXTINF:-1 tvg-ID="Star Sports 2 HD" tvg-name="IN: Star Sports2-SD" tvg-logo="https://www.logolynx.com/images/logolynx/d4/d45270f0d1dc46feafd57c63a8c53146.png" group-title="India",IN: Star Sports2-SD
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/300.m3u8
+#EXTINF:-1 tvg-ID="starutsav.in" tvg-name="IN: STAR UTSAV" tvg-logo="http://www.mxmindia.com/wp-content/uploads/2015/01/Star-Utsav-300x300.jpg" group-title="India",IN: STAR UTSAV
+http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/17084.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BD: BANGLA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" group-title="India",BD: BANGLA TV HD
 http://bestbuyiptv.live:8080/live/alexandrabower.131.93971/advLDb7W/54023.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BD: COLORS BANGLA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="India",BD: COLORS BANGLA HD
