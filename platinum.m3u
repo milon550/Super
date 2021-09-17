@@ -1226,7 +1226,7 @@ http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV 
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV HD
-http://103.81.104.118/hls/duronto.m3u8
+http://babutv.aliflailabd.com:8989/duronto-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DraJIkm.png" group-title="Kids", EBS Kids
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w920137870.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv 
