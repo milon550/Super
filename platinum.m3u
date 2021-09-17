@@ -575,7 +575,7 @@ http://173.199.120.51/hls/chts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Sports", Gazi TV 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports", PTV Sports SK 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports", PTV Sports
 http://dxla2.gcdn.co/WC5216/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports", PTV Sports
 http://server.nvisionbd.net:25461/live/ashrafulemon18/ashrafulemon18/1162.m3u8
