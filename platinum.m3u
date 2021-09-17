@@ -354,19 +354,19 @@ http://indo51.gcdn.co/hindi-HISTORY18/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="English Infotainment", NASA TV
 http://mygoodstream.pw/proxy.php/https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English Infotainment", National Geographic HD Hindi
-http://indo51.gcdn.co/hindi-Nationalgeographicindia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English Infotainment", National Geographic HD Bangla
-http://103.81.104.118/hls/ngohd.m3u8
+http://212.102.60.40:2200/R-EX/ENGLISH_NAT_GEO_WILD_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English Infotainment", National Geographic HD
+http://212.102.60.40:2200/R-EX/FHD_NATIONAL_GEO_-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English Infotainment", National Geographic HD Bangla 
-
+http://212.102.60.40:2200/R-EX/ENGLISH_NATGEO_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English Infotainment", National Geographic HD 
- 
+ http://212.102.60.40:2200/R-EX/BENGALI_NAT_GEO_BENGALI_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment", National Geographic Wild HD
 http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment", National Geographic Wild 
-http://103.81.104.118/hls/wild.m3u8
+http://212.102.60.40:2200/R-EX/HINDI_NAT_GEO_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English Infotainment", National Geographic Wild Hindi
-http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
+http://212.102.60.40:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiHUL9p.png" group-title="English Infotainment", Outdoor SD
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English Infotainment", TLC SD Hindi
